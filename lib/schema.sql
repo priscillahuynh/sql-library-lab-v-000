@@ -7,7 +7,7 @@ CREATE TABLE Series (
 
 CREATE TABLE Subgenres (
   id INTEGER PRIMARY KEY,
-  name TEXT,
+  name TEXT
 );
 
 CREATE TABLE Authors (
