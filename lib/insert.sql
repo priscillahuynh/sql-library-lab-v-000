@@ -6,4 +6,4 @@ INSERT INTO books (title, year, series_id) VALUES ("Game of Thrones", 1996, 1), 
 INSERT INTO characters (name, motto, species, series_id, author_id) VALUES ("Lady", "Woof Woof", "direwolf", 1, 1), ("Tyrion Lannister", "A Lannister always pays his debts", "human", 1, 1), ("Daenerys Targaryen", "If I look back I am lost", "human", 1, 1), ("Eddard Stark", "Winter is coming", "human", 1, 1);
 INSERT INTO characters (name, motto, species, series_id, author_id) VALUES ("Character One", "motto one", "cylon", 2, 2), ("Character Two", "motto two", "human", 2, 2), ("Character Three", "motto three", "cylon", 2, 2), ("Character Four", "motto four", "cylon", 2, 2);
 
-INSERT INTO subgenres (name) VALUES ("medieval"), ("spaceopera")
+INSERT INTO subgenres (name) VALUES ("medieval"), ("space opera")
