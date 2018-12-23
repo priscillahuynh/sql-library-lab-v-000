@@ -9,3 +9,4 @@ INSERT INTO characters (name, motto, species, series_id, author_id) VALUES ("Cha
 INSERT INTO subgenres (name) VALUES ("medieval"), ("space opera");
 
 INSERT INTO authors (name) VALUES ("George R. R. Martin"), ("Second Author");
+
